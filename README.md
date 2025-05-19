@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sadicoder-maker
-- 👀 I’m interested in ...doing codin
+- 👀 I’m interested in ...doing coding
 - 🌱 I’m currently learning ...c++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
